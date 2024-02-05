@@ -1,1 +1,1 @@
-# Custom Turborepo with Vue3 apps
+# Turborepo + Vue3 apps with custom config
